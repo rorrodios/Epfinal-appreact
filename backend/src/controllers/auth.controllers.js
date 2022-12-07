@@ -27,7 +27,7 @@ const userSchema = require('../models/user');
       }
       
       // Saving the User Object in Mongodb
-      console.log('hola')
+
       const savedUser = await newUser.save();
       
       // Create a token
