@@ -1,0 +1,1 @@
+export const apirest = "http://localhost:4000/api/";
